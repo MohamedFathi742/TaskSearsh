@@ -1,0 +1,14 @@
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\bin\Debug\net8.0\TaskSearsh.exe
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\bin\Debug\net8.0\TaskSearsh.deps.json
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\bin\Debug\net8.0\TaskSearsh.runtimeconfig.json
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\bin\Debug\net8.0\TaskSearsh.dll
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\bin\Debug\net8.0\TaskSearsh.pdb
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\obj\Debug\net8.0\TaskSearsh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\obj\Debug\net8.0\TaskSearsh.AssemblyInfoInputs.cache
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\obj\Debug\net8.0\TaskSearsh.AssemblyInfo.cs
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\obj\Debug\net8.0\TaskSearsh.csproj.CoreCompileInputs.cache
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\obj\Debug\net8.0\TaskSearsh.dll
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\obj\Debug\net8.0\refint\TaskSearsh.dll
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\obj\Debug\net8.0\TaskSearsh.pdb
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\obj\Debug\net8.0\TaskSearsh.genruntimeconfig.cache
+C:\Users\atffl\source\repos\TaskSearsh\TaskSearsh\obj\Debug\net8.0\ref\TaskSearsh.dll

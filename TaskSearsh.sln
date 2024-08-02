@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskSearsh", "TaskSearsh\TaskSearsh.csproj", "{FDBCAA44-20FA-4228-8226-E27C64141B34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSearch", "StringSearch\StringSearch.csproj", "{C3853654-57E0-4949-A4F2-10ADE4932BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBCAA44-20FA-4228-8226-E27C64141B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBCAA44-20FA-4228-8226-E27C64141B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBCAA44-20FA-4228-8226-E27C64141B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBCAA44-20FA-4228-8226-E27C64141B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3853654-57E0-4949-A4F2-10ADE4932BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3853654-57E0-4949-A4F2-10ADE4932BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3853654-57E0-4949-A4F2-10ADE4932BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3853654-57E0-4949-A4F2-10ADE4932BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A9DF001-CDEE-4418-8692-5D7EA1124A12}
+	EndGlobalSection
+EndGlobal

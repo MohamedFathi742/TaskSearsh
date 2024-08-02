@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atffl\\source\\repos\\TaskSearsh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBCAA44-20FA-4228-8226-E27C64141B34}|TaskSearsh\\TaskSearsh.csproj|c:\\users\\atffl\\source\\repos\\tasksearsh\\tasksearsh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBCAA44-20FA-4228-8226-E27C64141B34}|TaskSearsh\\TaskSearsh.csproj|solutionrelative:tasksearsh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3853654-57E0-4949-A4F2-10ADE4932BCF}|StringSearch\\StringSearch.csproj|c:\\users\\atffl\\source\\repos\\tasksearsh\\stringsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3853654-57E0-4949-A4F2-10ADE4932BCF}|StringSearch\\StringSearch.csproj|solutionrelative:stringsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atffl\\source\\repos\\TaskSearsh\\StringSearch\\Program.cs",
+              "RelativeDocumentMoniker": "StringSearch\\Program.cs",
+              "ToolTip": "C:\\Users\\atffl\\source\\repos\\TaskSearsh\\StringSearch\\Program.cs",
+              "RelativeToolTip": "StringSearch\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:28:19.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atffl\\source\\repos\\TaskSearsh\\TaskSearsh\\Program.cs",
+              "RelativeDocumentMoniker": "TaskSearsh\\Program.cs",
+              "ToolTip": "C:\\Users\\atffl\\source\\repos\\TaskSearsh\\TaskSearsh\\Program.cs",
+              "RelativeToolTip": "TaskSearsh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:06:03.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
